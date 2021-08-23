@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77256411567",
+    "project_id": "g3-whatsapp",
+    "storage_bucket": "g3-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77256411567:android:0b650743d64b9752cd475a",
+        "android_client_info": {
+          "package_name": "com.group3.g3whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77256411567-t6esdk9dghhh2u08s9fv9gtf4d9lk31d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Hd250A79wAp14Wpvca94FisiSiuYXdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77256411567-t6esdk9dghhh2u08s9fv9gtf4d9lk31d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
